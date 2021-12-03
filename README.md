@@ -1,4 +1,4 @@
-# AirbnbHoteAnalysisDashboard
+# AirbnbHostsAnalysisDashboard
 Analysing different Airbnb hosts in NYC, from ETL Until building the dashboard using Tableau desktop
 
 
