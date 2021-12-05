@@ -15,5 +15,5 @@ Analysing different Airbnb hosts in NYC, from ETL Until building the dashboard u
 
 **DASHBOARD :**
 
-![](/IMAGES_RESULTS/Dashboard.png)
+![](/IMAGES_RESULTS/Dashboard.PNG)
 
